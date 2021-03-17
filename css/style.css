@@ -1,0 +1,126 @@
+/* NAV BAR */
+.nav-cont-full{
+    background-color: blueviolet;
+    height: 50px;
+}
+
+.at-container-80{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.at-container-60{
+    width: 60%;
+    margin: 0 auto;
+}
+
+
+
+.nav-cont-full .nav-left,
+.nav-cont-full .nav-right{
+    background-color: chartreuse;
+    height: 25px;
+    margin: 5px 0;
+}
+
+.header-cont{
+    background-color: darkcyan;
+}
+
+.header-box {
+    background-color: darkkhaki;
+    height: 500px;
+    margin: 20px 0;
+}
+
+/* MAIN */
+
+.main-container .col-lg-4 .img{
+    width:90%;
+    height: 150px;
+    background-color: darkorange;
+    margin: 10px;
+}
+
+.main-container .portfolio{
+    height: 80px;
+    background-color: darkred;
+    margin: 20px auto;
+}
+
+
+/* MAIN ABOUT */
+
+.main-cont-about{
+    background-color: darkseagreen;
+    margin-top: 50px;
+}
+
+.main-cont-about .about{
+    height: 80px;
+    background-color: darkred;
+    margin: 40px auto;
+}
+
+.main-cont-about .text{
+    background-color: dodgerblue;
+    height: 300px;
+}
+
+.main-cont-about .btn{
+    width: 10%;
+    height: 30px;
+    background-color: dodgerblue;
+    margin: 30px 0;
+
+}
+
+/* MAIN CONTACT */
+
+.main-contact .contact{
+    height: 80px;
+    background-color: darkred;
+    margin: 40px auto;
+}
+
+.main-contact .data{
+    height: 30px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid black;
+    background-color: gold;
+}
+
+.margin-top{
+    margin-top: 40px;
+}
+
+.margin-bottom{
+    margin-bottom: 40px;
+}
+
+/* FOOTER */
+
+/* UP */
+.footer-cont{
+    background-color: khaki;
+}
+
+.footer-cont .box{
+    width: 90%;
+    height: 150px;
+    background-color: lightcoral;
+    margin: 40px auto;
+}
+
+/* DOWN */
+.footer-cont-down{
+    background-color: dodgerblue;
+    height: 50px;
+}
+
+.footer-cont-down .box{
+    height: 30px;
+    background-color:greenyellow;
+    margin: 10px 0;
+
+}
