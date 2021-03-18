@@ -113,16 +113,24 @@
     font-size: 50px;
 }
 
-.at-header-bottom .box-line{
+/* LINEA SATANICA */
+ .box-line{
+    width: 10%;
     display: inline-block;
-    border-bottom: 2px solid white;
-    height: 15px;
+    margin-bottom: 10px;
+}
+
+.box-star{
+    display: inline-block;
     
 }
 
-.at-header-bottom .box-star{
-    display: inline-block;
-    
+.box-line-white{
+    border-bottom: 2px solid white;
+}
+
+.box-line-black{
+    border-bottom: 2px solid black;
 }
 
 .at-header-bottom .box-star .glyphicon-star{
