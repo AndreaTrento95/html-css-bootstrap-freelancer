@@ -16,6 +16,10 @@
     margin-bottom: 20px;
 }
 
+.at-margin-bottom-10{
+    margin-bottom: 10px;
+}
+
 .at-wrapper-60{
     width: 60%;
     margin: 0 auto;
@@ -228,6 +232,7 @@
 .at-footer-top h4{
     color: white;
     text-transform: uppercase;
+    margin-bottom:0; 
 }
 
 .at-footer-top p{
@@ -236,6 +241,30 @@
 
 .at-footer-top p span{
     color: rgb(26, 188, 156) ;
+}
+
+.at-box-glyph{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid white;
+    background-color: rgb(58, 84, 109);
+    text-align: center;
+    margin-right: 5px;
+}
+
+.at-box-glyph .foot-icon{
+    margin-top: 8px;
+    color: white;
+}
+
+
+
+.at-box-glyph p{
+    margin-top: 3px;
+    font-weight: 700;
+    font-size: 15px;
 }
 
 
